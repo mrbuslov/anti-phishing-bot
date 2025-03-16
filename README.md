@@ -1,11 +1,11 @@
-# anti-fishing-bot
-Bot that prevents fishing messages, fishing + referral links, financial spam messages in Telegram Groups (en, ru, uk languages)
+# anti-phishing-bot
+Bot that prevents phishing messages, phishing + referral links, financial spam messages in Telegram Groups (en, ru, uk languages)
 
 # How to run
 
 1. Create `.env` file (fill data from `.env.example`)
 2. Run `docker compose up --build`
-3. Add bot to group and write any fishing message. Example is below
+3. Add bot to group and write any phishing message. Example is below
 
 # Phishing messages examples:
 
